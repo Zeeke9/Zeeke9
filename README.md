@@ -21,7 +21,7 @@ My academic and practical training has equipped me with a solid foundation in se
 ### 🔐 <a href="https://github.com/Zeeke9/Epicode">EPICODE Cybersecurity Projects</a>
 A collection of labs and assessments completed during the EPICODE bootcamp, covering topics such as vulnerability scanning, SIEM analysis, incident response, and penetration testing.
 
-### 💼 Google Cybersecurity Certificate Work
+### 💼 <a href="https://github.com/Zeeke9/GoogleCybersecurityCertificate/tree/main">Google Cybersecurity Certificate Work</a>
 Portfolio exemplars demonstrating core concepts in network security, risk management, security policies, and tools like Wireshark and Splunk.
 
 ### 📊 Tableau Intelligence Dashboards
