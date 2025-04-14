@@ -11,7 +11,7 @@ My academic and practical training has equipped me with a solid foundation in se
 - 🎓 Graduate of the **EPICODE Cybersecurity Bootcamp**
 - 🧾 Certified through the **Google Cybersecurity Professional Certificate**
 - 🛡️ Preparing for the **EC-Council Threat Intelligence Essentials (T|IE)** and **Cisco Certified Support Technician (CCST) Security** certifications
-- 🎓 Currently pursuing a **BSc in Business & IT** at the *International University of Applied Sciences*
+- 🧑‍🎓 Currently pursuing a **BSc in Business & IT** at the *International University of Applied Sciences*
 - 📍 Based in **Berlin, Germany**
 
 ---
