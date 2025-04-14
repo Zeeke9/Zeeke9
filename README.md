@@ -1,4 +1,4 @@
-# 👋 Welcome
+# 👋 Welcome!
 
 Hello, and thank you for visiting my GitHub profile. I am an early-career cybersecurity professional with a growing focus on **Cyber Threat Intelligence**, **Malware Analysis**, and the intersection of **Cybersecurity, Geopolitics, and Governance**.
 
