@@ -31,7 +31,7 @@ Visual representations of real-world threat intelligence data from sources like 
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/ivanmattana)
+- 💼 <a href="https://www.linkedin.com/in/ivanmattana">LinkedIn<a/>
 - 📧 [Email](ivan.mattana91@gmail.com)
 ---
 
