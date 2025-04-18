@@ -24,7 +24,7 @@ A collection of labs and assessments completed during the EPICODE bootcamp, cove
 ### 💼 <a href="https://github.com/Zeeke9/GoogleCybersecurityCertificate/tree/main">Google Cybersecurity Certificate Work</a>
 Portfolio exemplars demonstrating core concepts in network security, risk management, security policies, and tools like Wireshark and Splunk.
 
-### 📊 Tableau Intelligence Dashboards
+### 📊 <a href="https://github.com/Zeeke9/TableauIntelligenceDashboards">Tableau Intelligence Dashboards</a>
 Visual representations of real-world threat intelligence data from sources like AlienVault OTX, CISA KEV, MISP, and The DFIR Report — designed to simplify complex datasets and support analyst decision-making.
 
 ---
